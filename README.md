@@ -21,7 +21,7 @@ to market their stuff because its reach.
 The dataset contains description of top 5 most popular mobile brand in India. Columns : There are 16 columns each having a title which is self explanatory. 
 Rows : There are 430 rows each having a mobile with at least a distinct feature.
 
-## Acknowledgements
+## Acknowledgement
 The data was retrieved directly from Flipkart website using some web crawling techniques
 
 ## Assumption
